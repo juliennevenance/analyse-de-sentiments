@@ -7,7 +7,7 @@ Application complète d'analyse de sentiments des avis clients utilisant l'intel
 
 **Auteur** : Julienne Venance  
 **Formation** : Data Africa  
-**Date** : Décembre 2024
+**Date** : Décembre 2025
 
 ## 🚀 **Fonctionnalités Principales**
 
